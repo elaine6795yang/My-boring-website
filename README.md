@@ -3,7 +3,6 @@ This is my first website so don't blame me.
 <!doctype html>
 <html>
 <head>
-<title>Elaine's first website</title>
 </head>
 <body>
 <h1>The girl who loves coding</h1> 
